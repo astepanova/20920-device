@@ -1,0 +1,36 @@
+body {
+  font-size: 15px;
+  line-height: 2;
+  color: #464646;
+  font-weight: normal;
+  font-family: "Open Sans Light", "Tahoma", sans-serif;
+  letter-spacing: 0.01em;
+}
+
+h1 {
+  font-size: 48px;
+  line-height: normal;
+  color: #000000;
+  font-weight: bold;
+  font-family: "Gilroy", "Tahoma", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
+}
+
+h2 {
+  font-size: 47px;
+  line-height: normal;
+  color: #000000;
+  font-weight: bold;
+  font-family: "Gilroy", "Tahoma", sans-serif;
+  letter-spacing: 0.01em;
+}
+
+h3 {
+  font-size: 47px;
+  line-height: normal;
+  color: #000000;
+  font-weight: bold;
+  font-family: "Gilroy", "Tahoma", sans-serif;
+  letter-spacing: 0.01em;
+}
